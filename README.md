@@ -8,7 +8,7 @@ Playable instantly in your browser or on mobile — no setup required!
 ---
 
 ## 🚀 Live Demo
-👉 [Play Here](https://snack.expo.dev/@vishnu/react-native-tic-tac-toe)
+👉 [Play Here](https://snack.expo.dev/Icebear-cyber/react-native-tic-tac-toe)
 
 ---
 
@@ -36,4 +36,4 @@ Playable instantly in your browser or on mobile — no setup required!
 1. Install [Expo CLI](https://docs.expo.dev/get-started/installation/)
 2. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/react-native-tic-tac-toe.git
+   git clone https://github.com/Icebear-cyber/react-native-tic-tac-toe.git
